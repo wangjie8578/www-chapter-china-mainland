@@ -4,13 +4,15 @@ layout: col-sidebar
 title: OWASP China-Mainland
 tags: example-tag
 level: 0
-
 region: Asia/Pacific
 
 auto-migrated: 1
 
 ---
 
+OWASP China-Mainland
+-------------
+Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Jie Wang</a> and Bao Yuezhong. 
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
